@@ -16,9 +16,11 @@ And in the picture below, an explanation of the difference between a fixed and a
 
 ## How I keep myself growth mindset 
 
-**first** ,I look to my weekness points  as anew starting points to develop my self 
-**second** , I always looking forward new things to try it And do my best to success 
-**finally** , I deleted "impossible" word from my brain and alweys remember my self "i can do it ,and i can learn,no problem with fail".
+**1. first** ,I look to my weekness points  as anew starting points to develop my self 
+
+**2. second** , I always looking forward new things to try it And do my best to success 
+
+**3. finally** , I deleted "impossible" word from my brain and alweys remember my self "i can do it ,and i can learn,no problem with fail".
 
 --- 
 #### Remember : You are able to achieve more and set higher goals.
