@@ -14,6 +14,13 @@ And in the picture below, an explanation of the difference between a fixed and a
 
 ![ Fixed & Growth Mindset](https://cutt.us/wIvDz)
 
-** Remember : ** You are able to achieve more and set higher goals.
+## How I keep myself growth mindset 
 
-for more information click [ Here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+**first** ,I look to my weekness points  as anew starting points to develop my self 
+**second** , I always looking forward new things to try it And do my best to success 
+**finally** , I deleted "impossible" word from my brain and alweys remember my self "i can do it ,and i can learn,no problem with fail".
+
+--- 
+#### Remember : You are able to achieve more and set higher goals.
+
+For more information click [ Here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
