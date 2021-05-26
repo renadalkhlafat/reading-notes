@@ -26,3 +26,6 @@ And in the picture below, an explanation of the difference between a fixed and a
 #### Remember : You are able to achieve more and set higher goals.
 
 For more information click [ Here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
