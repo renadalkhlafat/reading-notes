@@ -1,6 +1,6 @@
 Hi ,I am Renad , I read about ***Growth Mindset*** and I want to share with you in brief what I read about it 
 
-![Growth Mindset](https://cutt.us/FbNPX)
+[![Growth Mindset](https://www.thegrowthcoach.com/atlanta/wp-content/uploads/2020/07/Growth-Mindset_1020.jpg)](https://www.thegrowthcoach.com/atlanta/wp-content/uploads/2020/07/)
 # Growth Mindset
 
 The growth mindset is a way to get rid of the traditional way of thinking and surrender to the challenges of life and not to search for new ways to solve the problems that we face in work or in daily life.
@@ -12,7 +12,7 @@ And in the picture below, an explanation of the difference between a fixed and a
 4. Criticism
 5. Success of others
 
-![ Fixed & Growth Mindset](https://cutt.us/wIvDz)
+[![ Fixed & Growth Mindset](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/04/taschen_informationgraphics10.jpg?w=680&ssl=1)](https://i1.wp.com/www.brainpickings.org/wp-content/uploads/2012/04/)
 
 ## How I keep myself growth mindset 
 
