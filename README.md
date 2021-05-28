@@ -1,7 +1,8 @@
 Hi ,I am Renad , I read about ***Growth Mindset*** and I want to share with you in brief what I read about it 
 # Table of content 
-|'#' |  Content |
-|------------ | -------------|
+
+  |'#' |  Content |
+  |------------ | -------------|
   | 1 | [Growth Mindset](growthMindset.md)|
   | 2 | [How I keep myself growth mindset](howTo.md)|
   | 3 | [Advice](advice.md) |
