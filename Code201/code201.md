@@ -23,4 +23,4 @@ In this page you can find all the reading files for **code-201**
 | 15 | [What Google Learned About Teams](Read14b.md)|
 
   
-  [Class-01](Code201/class-01.md) ,How to build a perfect website ?
+  [Class-01](class-01.md) ,How to build a perfect website ?
