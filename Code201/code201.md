@@ -1,5 +1,5 @@
 # Code 201 Reading Notes
-In this page you can find all the reading files for ** code-201**
+In this page you can find all the reading files for **code-201**
 
 
 ## Table of content 
@@ -17,11 +17,8 @@ In this page you can find all the reading files for ** code-201**
 | 9  | [Forms and Events](Read09.md)|
 | 10 | [JS Debugging](Read10.md)|
 | 11 | [Assorted Topics](Read11.md)|
-| 12 | [Docs for the HTML <canvas> Element & Chart.js](Read12.md)|
+| 12 | [Docs for the HTML canvas Element & Chart.js](Read12.md)|
 | 13 | [Local Storage](Read13.md)|
 | 14 | [CSS Transforms, Transitions, and Animations](Read14a.md)|
-| 15  | [What Google Learned About Teams](Read14b.md)|
-  
-  
-
+| 15 | [What Google Learned About Teams](Read14b.md)|
   
