@@ -6,8 +6,8 @@ In this page you can find all the reading files for **code-201**
 
 |'#' |  Content |
 | ------------ | -------------|
-| 1  | [Introductory HTML and JavaScript](Read01.md)|
-| 2  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Read02.md)|
+| 1  | [Introductory HTML and JavaScript](class-01.md)|
+| 2  | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)|
 | 3  | [HTML Lists, CSS Boxes, JS Control Flow](Read03.md) |
 | 4  | [HTML Links, CSS Layout, JS Functions](Read04.md)|
 | 5  | [HTML Images, CSS Color & Text](Read05.md)|
@@ -22,5 +22,3 @@ In this page you can find all the reading files for **code-201**
 | 14 | [CSS Transforms, Transitions, and Animations](Read14a.md)|
 | 15 | [What Google Learned About Teams](Read14b.md)|
 
-  
-  [Class-01](class-01.md) ,How to build a perfect website ?
