@@ -13,7 +13,7 @@ In this page you can find all the reading files for **code-201**
 | 5  | [HTML Images, CSS Color & Text](class-05.md)|
 | 6  | [JS Object Literals, The DOM](class-06.md)|
 | 7  | [HTML Tables; JS Constructor Functions](class07.md)|
-| 8  | [More CSS Layout](Read08.md)|
+| 8  | [More CSS Layout](class-08.md)|
 | 9  | [Forms and Events](Read09.md)|
 | 10 | [JS Debugging](Read10.md)|
 | 11 | [Assorted Topics](Read11.md)|
