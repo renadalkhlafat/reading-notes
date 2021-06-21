@@ -18,7 +18,7 @@ In this page you can find all the reading files for **code-201**
 | 10 | [JS Debugging](class-10.md)|
 | 11 | [Assorted Topics](class-11.md)|
 | 12 | [Docs for the HTML canvas Element & Chart.js](class-12.md)|
-| 13 | [Local Storage](Read13.md)|
+| 13 | [Local Storage](class-13.md)|
 | 14 | [CSS Transforms, Transitions, and Animations](Read14a.md)|
 | 15 | [What Google Learned About Teams](Read14b.md)|
 
