@@ -1,4 +1,4 @@
-# Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 In this page you can find all the reading files for **code-301**
 
 ## Table of content 
