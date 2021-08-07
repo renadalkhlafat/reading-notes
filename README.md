@@ -26,7 +26,7 @@
 | 8  | [More CSS Layout](./Code201/class-08.md)|
 | 9  | [Forms and Events](./Code201/class-09.md)|
 | 10 | [JS Debugging](./Code201/class-10.md)|
-| 11 | [Assorted Topics](class-11.md)|
+| 11 | [Assorted Topics](./Code201/class-11.md)|
 | 12 | [Docs for the HTML canvas Element & Chart.js](./Code201/class-12.md)|
 | 13 | [Local Storage](./Code201/class-13.md)|
 | 14 | [CSS Transforms, Transitions, and Animations](./Code201/class-14a.md)|
@@ -53,5 +53,5 @@
 | 11 | [Read: Class-11](./Code301/class-11.md)|
 | 12 | [Read: Class-12](./Code301/class-12.md)|
 | 13 | [Read: Class-13](./Code301/class-13.md)|
-| 14 | [Read: Class-14](./Code301/class-14a.md)|
-| 15 | [Read: Class-15](./Code301/class-14b.md)|
+| 14 | [Read: Class-14](./Code301/class-14.md)|
+| 15 | [Read: Class-15](./Code301/class-14.md)|
