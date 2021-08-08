@@ -47,7 +47,7 @@ The main benefit of CSS is that it allows you to separate style from content.
 
 Using just HTML, all the styles and formatting are in the same place, which becomes rather difficult to maintain as the page grows.
 
-#### Three Ways to Insert CSS
+## Three Ways to Insert CSS
 
 There are three ways of inserting a style sheet:
 
