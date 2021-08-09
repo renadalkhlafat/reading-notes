@@ -28,7 +28,7 @@
 7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
 
-``
+`API that requires consumer to do more than a single call to perform a single, common operation `
 
 8. What status code does a successful GET request return?
 
