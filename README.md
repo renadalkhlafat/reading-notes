@@ -54,4 +54,4 @@
 | 12 | [Read: Class-12](./Code301/class-12.md)|
 | 13 | [Read: Class-13](./Code301/class-13.md)|
 | 14 | [Read: Class-14](./Code301/class-14.md)|
-| 15 | [Read: Class-15](./Code301/class-14.md)|
+| 15 | [Read: Class-15](./Code301/class-15.md)|
