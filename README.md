@@ -1,4 +1,9 @@
+# Reading Notes
+In this website you will find all reading notes for 102,201,301 and 401 level and it devided to sections ,for each level you will find the title and the table of content for the level .
+
+
 ## Code 102 - Intro to Software Development
+In this section you can find all the reading files for **code-102**
 
 |'#' |  Content |
 | ------------ | -------------|
@@ -10,9 +15,8 @@
 | 6  | [Read 06b](./Code102/Read06b.md)|
  
 
- # Code 201 - Foundations of Software Development
-
-## Table of content 
+## Code 201 - Foundations of Software Development
+In this section you can find all the reading files for **code-201**
 
 |'#' |  Content |
 | ------------ | -------------|
@@ -33,10 +37,8 @@
 | 15 | [What Google Learned About Teams](./Code201/class-14b.md)|
 
 
-
 ## Code 301 - Intermediate Software Development
-
-## Table of content
+In this section you can find all the reading files for **code-301**
 
 |'#' |  Content |
 | ------------ | -------------|
@@ -58,7 +60,6 @@
 
 ## Code 401 - Advanced Software Development
 In this section you can find all the reading files for **code-401**
-## Table of content
 
 |'#' |  Content |
 | ------------ | -------------|
