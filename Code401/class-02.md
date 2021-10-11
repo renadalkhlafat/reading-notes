@@ -15,14 +15,13 @@ it stand or Test-Driven Development ,and it is a strategy to think and write the
 + Assert:(output)  after executing the code, you will check if the result is the same as you were expecting.
 
 
- ```
- if __name__ == “__main__”: do?
-```
 
-If the python interpreter is running that module (the source file) as the main program, it sets the special `__name__` varable to have a value `__main__`. If this file is being imported from another module, `__name__` will be set to the module’s name. Module’s name is available as value to `__name__ `global variable. 
+ ## if __name__ == “__main__”: do?
+
+we can say that it's boilerplate code that protects users from accidentally invoking the script when they didn't intend
 
 ## Recursion
-The process in which a function calls itself directly or indirectly 
+when the function call itself inside it this called **Recursion**
 
 **Example**
 ```
