@@ -78,3 +78,8 @@ In this section you can find all the reading files for **code-401**
 | 13 | [Read: Class-13](./Code401/class-13.md)|
 | 14 | [Read: Class-14](./Code401/class-14.md)|
 | 15 | [Read: Class-15](./Code401/class-15.md)|
+| 16 | [Read: Class-16](./Code401/class-16.md)|
+| 17 | [Read: Class-17](./Code401/class-17.md)|
+| 18 | [Read: Class-18](./Code401/class-18.md)|
+| 19 | [Read: Class-19](./Code401/class-19.md)|
+| 20 | [Read: Class-20](./Code401/class-20.md)|
