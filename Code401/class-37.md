@@ -35,3 +35,6 @@ It helpful as a visual aid when working with UI inside the JavaScript code. It a
 
 ## Handling Events
 he React onClick event handler enables you to call a function and trigger an action when a user clicks an element, such as a button, in your app
+
+## Tailwind CSS
+ is basically a utility-first CSS framework for rapidly building custom user interfaces.It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override
