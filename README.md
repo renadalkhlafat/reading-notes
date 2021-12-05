@@ -96,8 +96,8 @@ In this section you can find all the reading files for **code-401**
 | 37 | [Read: Class-37](./Code401/class-37.md)|
 | 38 | [Read: Class-38](./Code401/class-38.md)|
 | 39 | [Read: Class-39](./Code401/class-39.md)|
-| 40 | [Read: Class-40](./Code401/class-40.md)|
-| 41 | [Read: Class-41](./Code401/class-41.md)|
-| 42 | [Read: Class-42](./Code401/class-42.md)|
+| 40 | [Read: Class-41](./Code401/class-40.md)|
+| 41 | [Read: Class-42a](./Code401/class-41.md)|
+| 42 | [Read: Class-42b](./Code401/class-42.md)|
 | 43 | [Read: Class-43](./Code401/class-43.md)|
 
